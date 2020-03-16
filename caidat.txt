@@ -1,0 +1,14 @@
+#khi bi thieu libz.h thi cai dat cai nay 
+    $ sudo apt-get install libz-dev
+#khi cac route ko hoat dong thi cai dat rewrite module. chay lenh
+    $ sudo a2enmod rewirte
+
+#khi cai reset mysql 
+    [mysqld]`
+    skip-grant-table -> my.conf
+    FLUSH PRIVILEGES;
+    ALTER USER 'root'@'localhost' IDENTIFIED BY 'newpass';
+
+
+
+

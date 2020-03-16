@@ -1,0 +1,8 @@
+#tk mysql
+root/Phuvo04@#
+phuvo/Phuvo25@#
+#tk email viet vang
+phu_vn/Phuvo25@#
+#tk outlook viet vang
+phuvo.vietvang@outlook.com/Phuvo25@#
+
